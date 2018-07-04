@@ -1,4 +1,4 @@
-# Udacity-Nanodegree-Project1--Intro-to-Data-Analysis
+# Intro to Data Analysis
 
 ## Summary
 This is a project carried out to analyze data sets from Sean-Lehman's Baseball data archive. The project consisted of raising questions about the various features of the datasets and answering them using Python and its associated libraries like Numpy,Pandas and Matplotlib.
